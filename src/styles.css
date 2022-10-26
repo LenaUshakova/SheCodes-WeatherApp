@@ -180,6 +180,10 @@ body {
   margin-bottom: 10px;
   margin-left: 70px;
 }
+.footer-link {
+  color: black;
+  opacity: 90%;
+}
 
 @media (max-width: 767px) {
   .city-time {
